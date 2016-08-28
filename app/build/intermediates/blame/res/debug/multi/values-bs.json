@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\android\\AndroidStudioWork\\Push-Notifications-Android-FirebaseCloudMessaging\\app\\build\\intermediates\\res\\merged\\debug\\values-bs\\values-bs.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 234,
+                    "endOffset": 335
+                },
+                "from": {
+                    "file": "D:\\android\\AndroidStudioWork\\Push-Notifications-Android-FirebaseCloudMessaging\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\9.4.0\\res\\values-bs\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 331,
+                        "endColumn": 234,
+                        "endOffset": 561
+                    }
+                }
+            }
+        ]
+    }
+]

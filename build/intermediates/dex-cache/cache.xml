@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android\AndroidStudioWork\Push-Notifications-Android-FirebaseCloudMessaging\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="D:\android\AndroidStudioWork\Push-Notifications-Android-FirebaseCloudMessaging\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.4.0_7ef790c3a74957f457242962a5a64925a6301b1b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ardhitya\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.19\a8f23f65fc1e522ee4a1a697ee569901a46741fa\library-1.0.19.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="D:\android\AndroidStudioWork\Push-Notifications-Android-FirebaseCloudMessaging\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-1.0.19_abeeadcf7fbcd5ffb9f719dc69a68d2e13fc232d\classes.dex" />
+    </item>
+    <item
+        jar="D:\android\AndroidStudioWork\Push-Notifications-Android-FirebaseCloudMessaging\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="D:\android\AndroidStudioWork\Push-Notifications-Android-FirebaseCloudMessaging\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_6bd566cb8186dc45bb61cb74c4f7a0fad63fadbc\classes.dex" />
+    </item>
+    <item
+        jar="D:\android\AndroidStudioWork\Push-Notifications-Android-FirebaseCloudMessaging\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="D:\android\AndroidStudioWork\Push-Notifications-Android-FirebaseCloudMessaging\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.4.0_d7e4011a0624c6afe5f904d05d7198b519fcd612\classes.dex" />
+    </item>
+    <item
+        jar="D:\android\AndroidStudioWork\Push-Notifications-Android-FirebaseCloudMessaging\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="84135bcbb53781135c9c17bd7220891e0e728695">
+        <dex dex="D:\android\AndroidStudioWork\Push-Notifications-Android-FirebaseCloudMessaging\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3939f4fdbb40e98d9160a28e96581c4db6b59ecb\classes.dex" />
+    </item>
+    <item
+        jar="D:\android\AndroidStudioWork\Push-Notifications-Android-FirebaseCloudMessaging\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="D:\android\AndroidStudioWork\Push-Notifications-Android-FirebaseCloudMessaging\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_9c878af75c2711230335c86e84b22023a28b999c\classes.dex" />
+    </item>
+    <item
+        jar="D:\android\AndroidStudioWork\Push-Notifications-Android-FirebaseCloudMessaging\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="D:\android\AndroidStudioWork\Push-Notifications-Android-FirebaseCloudMessaging\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_041498d3bcb834f2a6d4b485a3a27170b76d0ff6\classes.dex" />
+    </item>
+    <item
+        jar="D:\android\AndroidStudioWork\Push-Notifications-Android-FirebaseCloudMessaging\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="D:\android\AndroidStudioWork\Push-Notifications-Android-FirebaseCloudMessaging\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.4.0_88f1c1e66eabf4061a0ec0be23f97d3a0088a818\classes.dex" />
+    </item>
+    <item
+        jar="D:\android\AndroidStudioWork\Push-Notifications-Android-FirebaseCloudMessaging\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="D:\android\AndroidStudioWork\Push-Notifications-Android-FirebaseCloudMessaging\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.4.0_f72e2c4e416c0a8ab8282b00d0c43c983d265a72\classes.dex" />
+    </item>
+    <item
+        jar="D:\android\AndroidStudioWork\Push-Notifications-Android-FirebaseCloudMessaging\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="D:\android\AndroidStudioWork\Push-Notifications-Android-FirebaseCloudMessaging\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.4.0_2f53bb803019d189d5b8f1ace28b2e51bc34b07a\classes.dex" />
+    </item>
+    <item
+        jar="D:\android\AndroidStudioWork\Push-Notifications-Android-FirebaseCloudMessaging\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="b2fa61c4838805b084faeb1fee3a502c22795576">
+        <dex dex="D:\android\AndroidStudioWork\Push-Notifications-Android-FirebaseCloudMessaging\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ee9f75dbe54f20b643adc823c09ed1a6e5517404\classes.dex" />
+    </item>
+    <item
+        jar="D:\android\AndroidStudioWork\Push-Notifications-Android-FirebaseCloudMessaging\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="D:\android\AndroidStudioWork\Push-Notifications-Android-FirebaseCloudMessaging\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.4.0_1179a960a89aa55509cfbdf3b2e3c719144200ef\classes.dex" />
+    </item>
+    <item
+        jar="D:\android\AndroidStudioWork\Push-Notifications-Android-FirebaseCloudMessaging\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="D:\android\AndroidStudioWork\Push-Notifications-Android-FirebaseCloudMessaging\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_dcad5250fba4f740f06d64d5566c2d93a765111a\classes.dex" />
+    </item>
+    <item
+        jar="D:\android\AndroidStudioWork\Push-Notifications-Android-FirebaseCloudMessaging\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="D:\android\AndroidStudioWork\Push-Notifications-Android-FirebaseCloudMessaging\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.4.0_f132f9de7bb40d5ba4dd9da9fcae300a479113ec\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ardhitya\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.0.0\2943c74db6d4346ab8c6531adac91fa05c137c40\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="D:\android\AndroidStudioWork\Push-Notifications-Android-FirebaseCloudMessaging\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_2c50bd92bf34840a36a12b87176f57be12aa6fd9\classes.dex" />
+    </item>
+    <item
+        jar="D:\android\AndroidStudioWork\Push-Notifications-Android-FirebaseCloudMessaging\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="D:\android\AndroidStudioWork\Push-Notifications-Android-FirebaseCloudMessaging\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_693c7d4b95f455de2bee4665630efb645c283460\classes.dex" />
+    </item>
+
+</items>

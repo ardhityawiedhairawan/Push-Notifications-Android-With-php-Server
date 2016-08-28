@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="22"
+    density="xhdpi"
+    format="7"
+    timestamp="322443284672157"
+    token="-8833585650634173716" >
+
+    <task
+        name="javac"
+        duration="2877" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="422" />
+    <task
+        name="verifier"
+        duration="93" />
+
+    <artifact
+        location="D:\android\AndroidStudioWork\Push-Notifications-Android-FirebaseCloudMessaging\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="322443284672157" >
+        <artifact
+            location="D:\android\AndroidStudioWork\Push-Notifications-Android-FirebaseCloudMessaging\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
